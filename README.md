@@ -29,6 +29,9 @@
 **Auto return to home**
 ![Inbuilt camera](https://i.imgur.com/qZb6UFV.png)
 
+## Dependency
+meta_libs - https://github.com/meta-hub/meta_libs
+
 ## Download & Installation
 
 ### Using Git
